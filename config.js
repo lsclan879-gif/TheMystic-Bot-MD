@@ -16,12 +16,7 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
+  ['50493364249', '👑 Propietario 👑', true],
 ];
 
 global.suittag = ['5219993404349'];
